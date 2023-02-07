@@ -11,6 +11,5 @@ function hideSanta(e) {
 // Checking if the clicked element satisfies givven condition and if yes - adding to it a class "hidden" property:
    if (e.target.getAttribute("alt") == "Santa Klaus") {
     e.target.className = "hidden";
-
    }
 }
