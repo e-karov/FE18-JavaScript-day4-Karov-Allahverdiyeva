@@ -8,6 +8,8 @@
 
 img {
     width: 80%;
+    cursor: pointer;
+    transition: all 1s;
 }
 
 .hidden {
